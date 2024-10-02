@@ -65,4 +65,3 @@ If you're getting errors related to sending emails (e.g., `Failed to connect to 
 ## License
 
 This project is open-source and available under the **MIT License**.
-```
